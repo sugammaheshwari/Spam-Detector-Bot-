@@ -19,6 +19,6 @@ can be used to track advertisers
 
 can be modified for webscapping purposes on reddit
 
-
+************************
 
 Resources - sentdex.com
