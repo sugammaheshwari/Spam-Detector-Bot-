@@ -20,4 +20,5 @@ can be modified for webscapping purposes on reddit
 
 ..etc..
 
-# Resources - sentdex.com
+
+Resources - sentdex.com
