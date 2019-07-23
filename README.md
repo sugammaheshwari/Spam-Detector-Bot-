@@ -16,9 +16,9 @@ Run with
 # Other use and scope for modification
 
 can be used to track advertisers 
+
 can be modified for webscapping purposes on reddit
 
-..etc..
 
 
 Resources - sentdex.com
